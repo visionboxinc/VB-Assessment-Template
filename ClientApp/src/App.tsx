@@ -2,7 +2,7 @@ import axios from 'axios';
 import {useState} from "react";
 import logo from './logo.svg';
 import './App.css';
-
+import 'bootstrap/dist/css/bootstrap.css';
 
 
 // Get Request
