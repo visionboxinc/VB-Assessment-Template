@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Ven9tK+S/wwy01daJUv/cedyg3w3rhIXLkaG3NJg/Q9nRkUv63++59We0m2wMnY40f4AwC/E3/7MjhV7bQWMQ==",
+  "success": true,
+  "projectFilePath": "/Users/benford/Desktop/VB Assessment no git/VBAssessment.csproj",
+  "expectedPackageFiles": [
+    "/Users/benford/.nuget/packages/microsoft.aspnetcore.spaproxy/7.0.0/microsoft.aspnetcore.spaproxy.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
